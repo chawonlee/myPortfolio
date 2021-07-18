@@ -6,4 +6,12 @@
   /* Preserve aspet ratio */
   min-width: 100%;
   min-height: 100%;
+  z-index: -1
+}
+
+#mainLogo {
+	width: 300px;
+	height: auto;
+	padding-left: 3%;
+	padding-top: 2%
 }
